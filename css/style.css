@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(232, 232, 232);
+}
+
+.navbar {
+    background-color: #0d3f71;
+
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.navbar h1 {
+    color: rgb(245, 245, 245);
+}
+
+.navbar-nav a {
+    color: rgb(245, 245, 245);
+}
+
+.container {
+    background-color: rgb(232, 232, 232);
+}
+
+.my_profile {
+    width: 800px;
+}
+
+#show-income-form-button {
+    background: black;
+}
+
+.profile-info {
+    font-size: larger;
+    margin: 10px;
+}
+
+.monthly-money {
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.form {
+    background-color: #0d3f71;
+    color: white;
+}
+
+.footer {
+    background: #0d3f71;
+    padding: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#login, #logout {
+    /* set initial display to none */
+    display: none;
+}
+
+#showPassword {
+    text-decoration: underline;
+}
+
+#showPassword:hover {
+    cursor: pointer;
+}
